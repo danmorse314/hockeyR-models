@@ -512,15 +512,15 @@ doesn’t know the goalie’s position and therefore doesn’t know the shot
 was taken behind the goaltender, but it still gave it a satisfactorily
 high value.
 
-![Colton Parayko’s
-goal(README_files/parayko.png)](https://youtu.be/tD4MGnqDAhY?t=264)
+[![Colton Parayko’s
+goal](README_files/parayko.png)](https://youtu.be/tD4MGnqDAhY?t=264)
 
 One of the highest expected goals value for a 5-on-5 shot that did *not*
 result in a goal is this whiff from Mark Jankowski in 2017, which had a
 whopping 0.86 expected goal value.
 
-![Mark Jankowski’s
-fan(README_files/jankowski.png)](https://youtu.be/nWkOxvxFEAY?t=49)
+[![Mark Jankowski’s
+fan](README_files/jankowski.png)](https://youtu.be/nWkOxvxFEAY?t=49)
 
 On the flip side, one of the lowest expected goals values for any goal
 scored at 5-on-5 is this goal by Richard Panik, who gets the credit as
@@ -528,8 +528,8 @@ the last player on the scoring team to touch the puck before Nick Bonino
 put it in his own net. The model gave it an expected goal value of
 0.0005.
 
-![Richard Panik’s good
-fortune(README_files/richard_panik.png)](https://youtu.be/38U3s73xFIY?t=155)
+[![Richard Panik’s good
+fortune](README_files/richard_panik.png)](https://youtu.be/38U3s73xFIY?t=155)
 
 Since the NHL doesn’t count “own goals,” this one is listed as being
 shot by Panik from just inside the blue line, all the way on the right
@@ -542,8 +542,8 @@ occurrence works out just fine.
 One final example, here’s a goal with an above-average, but not extreme,
 expected goal value.
 
-![JG Pageau
-goal(README_files/jg_pageau.png)](https://youtu.be/SQfwN92Dk4Y?t=377)
+[![JG Pageau
+goal](README_files/jg_pageau.png)](https://youtu.be/SQfwN92Dk4Y?t=377)
 
     ## # A tibble: 1 x 10
     ##   event    xg shot_dista~1 shot_~2 shot_~3  rush last_~4 dista~5 time_~6 stren~7
